@@ -1,0 +1,5 @@
+discord
+python-dotenv
+requests
+iso8601
+schedule
