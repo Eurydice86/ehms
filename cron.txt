@@ -1,0 +1,4 @@
+# Weekly update of the database at 00:00 on Monday
+0 0 * * 1 cd /home/PATH_TO/ehms && .venv/bin/python main_db.py
+# Monthly Discord message
+0 0 1 * * cd /home/PATH_TO/ehms && .venv/bin/python main_bot.py
