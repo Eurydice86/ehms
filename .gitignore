@@ -1,5 +1,6 @@
 .venv
 __pycache__/
 ehms_discord_bot/.env
+ehms_mc_api/.env
 ehms_discord_bot/token.json
 data/ehms.db
